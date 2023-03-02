@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.home-link{
+  color: black;
+  margin-left: 20px;
+
+  
+}
+.home-link:hover{
+  opacity: .5;
+}
+.home-link:active{
+  opacity: 1;
+  
+
+}
+
