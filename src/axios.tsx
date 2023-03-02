@@ -2,7 +2,7 @@ import axios from "axios";
 import { getCookie } from 'typescript-cookie'
 
 const instance = axios.create({
-    baseURL: "http://localhost:9000"
+    baseURL: "https://backendproject-0lis.onrender.com"
 });
 
 
