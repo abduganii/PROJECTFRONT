@@ -23,7 +23,6 @@ interface Props {
 }
 
 export default function Allitems({ data, tag, users }: Props) {
-
     const novigate = useNavigate()
     const { token } = useContext<any>(GlobalContext)
 
